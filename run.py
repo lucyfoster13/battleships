@@ -13,3 +13,16 @@ letters_to_numbers = {
     'G': 6,
     'H': 7
 }
+
+def board():
+    pass
+
+def create_ships():
+    pass
+
+def get_ship_location():
+    pass
+
+def count_hit_ships():
+    pass
+
